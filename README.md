@@ -28,3 +28,5 @@ CREATE TABLE IF NOT EXISTS `image` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 
+paste this url in browser address bar
+http://localhost/photo_gallery/welcome/paste
